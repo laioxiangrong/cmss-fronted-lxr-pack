@@ -1,5 +1,7 @@
 # README
 
+**HELLO!**
+
 ## This is the README for your extension pack "cmss-fronted-lxr-pack"
 
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
