@@ -3,6 +3,8 @@
     "displayName": "cmss-fronted-lxr-pack",
     "description": "test",
     "version": "0.0.1",
+    "publisher": "lxr",
+    "repository": "https://github.com/laioxiangrong/cmss-fronted-lxr-pack",
     "engines": {
         "vscode": "^1.57.0"
     },
