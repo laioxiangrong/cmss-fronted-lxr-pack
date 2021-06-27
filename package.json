@@ -1,0 +1,16 @@
+{
+    "name": "cmss-fronted-lxr-pack",
+    "displayName": "cmss-fronted-lxr-pack",
+    "description": "test",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "publisher.extensionName",
+        "msjsdiag.debugger-for-chrome"
+    ]
+}
